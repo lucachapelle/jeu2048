@@ -1,0 +1,102 @@
+Click sur "Nouvelle Partie" 
+Click sur "jouer". 
+ Nouveau jeu. NbCols : 4, NbLignes : 4, But à attenindre : 2048
+Décalage flèche BAS
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+8 resultat d'une fusion  dans (3,0)
+Décalage flèche BAS
+Décalage flèche GAUCHE
+4 resultat d'une fusion  dans (2,0)
+Décalage flèche DROITE
+Décalage flèche BAS
+8 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+16 resultat d'une fusion  dans (3,1)
+Décalage flèche DROITE
+Décalage flèche GAUCHE
+Décalage flèche BAS
+4 resultat d'une fusion  dans (2,0)
+4 resultat d'une fusion  dans (3,0)
+Décalage flèche DROITE
+8 resultat d'une fusion  dans (2,3)
+Décalage flèche GAUCHE
+Décalage flèche HAUT
+4 resultat d'une fusion  dans (0,0)
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (0,3)
+Décalage flèche GAUCHE
+Décalage flèche BAS
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+4 resultat d'une fusion  dans (3,0)
+8 resultat d'une fusion  dans (3,1)
+Décalage flèche BAS
+Décalage flèche DROITE
+Décalage flèche GAUCHE
+Décalage flèche BAS
+4 resultat d'une fusion  dans (1,0)
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche DROITE
+8 resultat d'une fusion  dans (1,2)
+8 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+16 resultat d'une fusion  dans (3,1)
+Décalage flèche BAS
+16 resultat d'une fusion  dans (2,0)
+32 resultat d'une fusion  dans (3,1)
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+Décalage flèche BAS
+4 resultat d'une fusion  dans (1,0)
+Décalage flèche DROITE
+Click sur "Sauvegarder la partie"
+Décalage flèche DROITE
+Décalage flèche DROITE
+Décalage impossible
+Décalage flèche DROITE
+Décalage impossible
+Décalage flèche DROITE
+Décalage impossible
+Décalage flèche DROITE
+Décalage impossible
+Charge la sauvgarde
+Décalage flèche DROITE
+Décalage flèche GAUCHE
+4 resultat d'une fusion  dans (0,0)
+Décalage flèche BAS
+8 resultat d'une fusion  dans (1,0)
+4 resultat d'une fusion  dans (2,1)
+Décalage flèche DROITE
+8 resultat d'une fusion  dans (2,3)
+Décalage flèche GAUCHE
+Décalage flèche BAS
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (0,3)
+Décalage flèche GAUCHE
+Décalage flèche BAS
+Décalage impossible
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (1,3)
+Décalage flèche GAUCHE
+Click sur "Recommencer la patie" 
+Décalage flèche BAS
+Décalage flèche DROITE
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+Décalage flèche BAS
+Décalage flèche DROITE
+Décalage flèche GAUCHE
+Décalage flèche BAS
+4 resultat d'une fusion  dans (3,0)
+Décalage flèche DROITE
+8 resultat d'une fusion  dans (3,2)
+4 resultat d'une fusion  dans (3,3)
+Décalage flèche GAUCHE
+Click sur "menu "
+Fenetre score
+Click sur "menu "
+Fermeture fenetre
